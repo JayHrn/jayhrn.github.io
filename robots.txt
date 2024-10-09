@@ -1,0 +1,29 @@
+User-agent: *
+Allow: /
+Allow: /about/
+Allow: /archives/
+Allow: /books/
+Allow: /categories/
+Allow: /cc/
+Allow: /comments/
+Allow: /cookies/
+Allow: /echarts/
+Allow: /essay/
+Allow: /link/
+Allow: /moments/
+Allow: /movies/
+Allow: /page/
+Allow: /posts/
+Allow: /privacy/
+Allow: /stars/
+Allow: /tags/
+Allow: /update/
+Allow: /wechat/
+
+Disallow: /js/
+Disallow: /css/
+Disallow: /img/
+
+# 记得替换成你的域名
+Sitemap: https://blog.lvhrn.cn/sitemap.xml
+Sitemap: https://blog.lvhrn.cn/baidusitemap.xml
